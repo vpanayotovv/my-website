@@ -39,7 +39,7 @@ body{
 *{
 	font-family: inherit;
 }
-.view-project,
+.view-project1,
 .portfolio-filters > li > a,
 .p-table > .header > .price,
 .info-list > li > strong,
@@ -991,7 +991,7 @@ body.section-switching.up .animation-block{
 	-moz-transition:all .3s cubic-bezier(.785,.135,.15,.86);
 	transition:all .3s cubic-bezier(.785,.135,.15,.86);
 }
-.portfolio-items > li > .inner > .overlay > .view-project{
+.portfolio-items > li > .inner > .overlay > .view-project1{
 	font-size:18px;
 	line-height:18px;
 	vertical-align:middle;
@@ -1010,7 +1010,7 @@ body.section-switching.up .animation-block{
 	-moz-transition:all .3s cubic-bezier(.785,.135,.15,.86);
 	transition:all .3s cubic-bezier(.785,.135,.15,.86);
 }
-.portfolio-items > li > .inner > .overlay > .view-project:hover{
+.portfolio-items > li > .inner > .overlay > .view-project1:hover{
 	color:#FFF;
 }
 /*== Project Popup ==*/
